@@ -1,4 +1,11 @@
-/* By Fptbb.com - Licensed under the Apache-2.0 License (https://opensource.org/licenses/Apache-2.0) */
+/**
+ * @name RageCrd
+ * @author Fptbb (https://fptbb.com/)
+ * @version 1.0.0
+ * @description Some extra tweaks to work with Disblock-Origin on removing every Discord Annoyance :)
+ * @source https://github.com/fptbb/ragecrd
+ */
+/* Licensed under the Apache-2.0 License (https://opensource.org/licenses/Apache-2.0) */
 
 /* Hide clan (guild) tags */
 [class*="chipletContainerInner_"]:has([src*="/clan-badges/"]) {
