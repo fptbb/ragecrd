@@ -69,3 +69,8 @@ div[class^="wrapper_"]:has(> div[class^="rewardTileWrapper_"]) {
 svg[class^="premiumStreamIcon"] {
 	display: none !important;
 }
+
+/* Hide "Only 2 more nitro to get to level 2 for server staff */
+div > div > div[class^="popover_d6f39b"] {
+	display: none;
+}
