@@ -74,3 +74,12 @@ svg[class^="premiumStreamIcon"] {
 div > div > div[class^="popover_d6f39b"] {
 	display: none;
 }
+
+/* Profile Editing Card, Nitro Promo */
+aside[id^="profile-modal-editing-panel"] {
+	display: none;
+}
+
+div[class^="tabButton_"] {
+	display: none;
+}
